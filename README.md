@@ -12,3 +12,4 @@ npm i
 ```
 node main.js [-i interval] [-t timeout]
 ```
+Сервер слушает порт 3000. Значения interval и timeout по умолчанию 1000 и 5000 соответственно.
