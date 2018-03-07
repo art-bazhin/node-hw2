@@ -1,0 +1,14 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "Node.js course homework #2",
+  "main": "main.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Bazhin",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
